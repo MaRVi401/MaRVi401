@@ -16,10 +16,10 @@
 - 🛠️ Interested in Backend Architecture and Computer Vision.
 
 ### 📊 GitHub Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaRVi401&show_icons=true&theme=tokyonight&count_private=true" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaRVi401&layout=compact&theme=tokyonight&langs_count=6" height="170" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaRVi401&theme=tokyonight" height="170" />
