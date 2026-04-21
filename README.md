@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Politeknik%20Negeri%20Indramayu-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile%20Development-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Developer%20%26%20Computer%20Vision-green?style=flat-square" />
 </p>
 
 ### 🚀 About Me
