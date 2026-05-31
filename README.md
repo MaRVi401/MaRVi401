@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=631e50&height=250&section=header&text=Tech%20Enthusiast&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Tech%20Enthusiast&fontSize=70&animation=fadeIn" width="100%" />
 </p>
 
 <h2 align="center">Hi 👋! Call me YSS and I'm a Full Stack Dev, from West Java.</h2>
